@@ -94,7 +94,7 @@ Original Template: DeveloperFolio by Saad Pasta
 📬 Contact
 Feel free to connect with me:
 
-GitHub: @Manasvi-kirti
+GitHub: Manasvi-kirti
 
 Email: manasvikirti12@gmail.com
 
