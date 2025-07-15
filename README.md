@@ -1,4 +1,4 @@
-# Manasvi Kirti 
+# Portfolio
 This is my personal developer portfolio website built using React and inspired by DeveloperFolio by Saad Pasta.
 
 🌐 Live Website
